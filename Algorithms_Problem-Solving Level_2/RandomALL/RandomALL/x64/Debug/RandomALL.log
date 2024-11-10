@@ -1,0 +1,3 @@
+﻿  RandomALL.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_2\RandomALL\RandomALL\RandomALL.cpp(27): warning C4715: 'GetRandomCharacter': not all control paths return a value
+  RandomALL.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\RandomALL\x64\Debug\RandomALL.exe

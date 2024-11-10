@@ -1,0 +1,3 @@
+﻿  PR18.cpp
+C:\c++_project\function_and_procedur_solve\PR18\PR18\PR18.cpp(6,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PR18.vcxproj -> C:\c++_project\function_and_procedur_solve\PR18\x64\Debug\PR18.exe

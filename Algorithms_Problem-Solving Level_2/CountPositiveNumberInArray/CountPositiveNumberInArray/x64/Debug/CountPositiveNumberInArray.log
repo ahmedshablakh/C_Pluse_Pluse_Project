@@ -1,0 +1,4 @@
+﻿  CountPositiveNumberInArray.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_2\CountPositiveNumberInArray\CountPositiveNumberInArray\CountPositiveNumberInArray.cpp(54,45): warning C4101: 'arr2length': unreferenced local variable
+C:\c++_project\Algorithms_Problem-Solving Level_2\CountPositiveNumberInArray\CountPositiveNumberInArray\CountPositiveNumberInArray.cpp(54,32): warning C4101: 'Array2': unreferenced local variable
+  CountPositiveNumberInArray.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\CountPositiveNumberInArray\x64\Debug\CountPositiveNumberInArray.exe

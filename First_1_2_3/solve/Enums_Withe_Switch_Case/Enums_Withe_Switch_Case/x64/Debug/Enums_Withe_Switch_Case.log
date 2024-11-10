@@ -1,0 +1,3 @@
+﻿  Enums_Withe_Switch_Case.cpp
+C:\c++_project\solve\Enums_Withe_Switch_Case\Enums_Withe_Switch_Case\Enums_Withe_Switch_Case.cpp(42): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Enums_Withe_Switch_Case.vcxproj -> C:\c++_project\solve\Enums_Withe_Switch_Case\x64\Debug\Enums_Withe_Switch_Case.exe

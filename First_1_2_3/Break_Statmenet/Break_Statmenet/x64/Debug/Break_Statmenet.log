@@ -1,0 +1,3 @@
+﻿  Break_Statmenet.cpp
+C:\c++_project\Break_Statmenet\Break_Statmenet\Break_Statmenet.cpp(7,6): warning C4101: 'bul': unreferenced local variable
+  Break_Statmenet.vcxproj -> C:\c++_project\Break_Statmenet\x64\Debug\Break_Statmenet.exe

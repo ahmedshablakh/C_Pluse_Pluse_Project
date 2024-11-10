@@ -1,0 +1,4 @@
+﻿  PR20.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR20\PR20\PR20.cpp(15,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR20\PR20\PR20.cpp(16,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PR20.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_1\PR20\x64\Debug\PR20.exe

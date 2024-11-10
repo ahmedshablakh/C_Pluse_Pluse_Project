@@ -1,0 +1,3 @@
+﻿  deletfile.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\deletfile\deletfile\deletfile.cpp(21,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  deletfile.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\deletfile\x64\Debug\deletfile.exe

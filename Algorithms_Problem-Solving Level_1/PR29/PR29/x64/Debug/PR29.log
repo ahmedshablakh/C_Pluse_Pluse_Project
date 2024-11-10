@@ -1,0 +1,3 @@
+﻿  PR29.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR29\PR29\PR29.cpp(14,21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  PR29.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_1\PR29\x64\Debug\PR29.exe

@@ -1,0 +1,3 @@
+﻿  PR21.cpp
+C:\c++_project\solve\PR21\PR21\PR21.cpp(8,26): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  PR21.vcxproj -> C:\c++_project\solve\PR21\x64\Debug\PR21.exe

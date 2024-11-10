@@ -1,0 +1,5 @@
+﻿  PR43.cpp
+C:\c++_project\solve\PR43\PR43\PR43.cpp(17,24): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\c++_project\solve\PR43\PR43\PR43.cpp(19,26): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\c++_project\solve\PR43\PR43\PR43.cpp(21,26): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  PR43.vcxproj -> C:\c++_project\solve\PR43\x64\Debug\PR43.exe

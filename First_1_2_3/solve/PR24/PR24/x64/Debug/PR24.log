@@ -1,0 +1,3 @@
+﻿  PR24.cpp
+C:\c++_project\solve\PR24\PR24\PR24.cpp(18): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  PR24.vcxproj -> C:\c++_project\solve\PR24\x64\Debug\PR24.exe

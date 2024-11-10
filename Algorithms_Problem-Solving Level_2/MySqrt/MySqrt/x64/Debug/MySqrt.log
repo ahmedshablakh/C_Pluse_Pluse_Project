@@ -1,0 +1,3 @@
+﻿  MySqrt.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_2\MySqrt\MySqrt\MySqrt.cpp(7,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  MySqrt.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\MySqrt\x64\Debug\MySqrt.exe

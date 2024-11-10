@@ -1,0 +1,3 @@
+﻿  ShowAllClients.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\ShowAllClients\ShowAllClients\ShowAllClients.cpp(29,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ShowAllClients.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\ShowAllClients\x64\Debug\ShowAllClients.exe

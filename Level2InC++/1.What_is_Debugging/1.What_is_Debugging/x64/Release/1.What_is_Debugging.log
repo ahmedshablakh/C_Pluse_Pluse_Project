@@ -1,0 +1,6 @@
+﻿  1.What_is_Debugging.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 79 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  1.What_is_Debugging.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\1.What_is_Debugging\x64\Release\1.What_is_Debugging.exe

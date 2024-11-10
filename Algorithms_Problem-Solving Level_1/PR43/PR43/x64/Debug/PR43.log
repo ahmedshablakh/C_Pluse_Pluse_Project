@@ -1,0 +1,5 @@
+﻿  PR43.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR43\PR43\PR43.cpp(28,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR43\PR43\PR43.cpp(30,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR43\PR43\PR43.cpp(32,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PR43.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_1\PR43\x64\Debug\PR43.exe

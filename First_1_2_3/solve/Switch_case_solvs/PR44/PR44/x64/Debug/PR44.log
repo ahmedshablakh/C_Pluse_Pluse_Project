@@ -1,0 +1,3 @@
+﻿  PR44.cpp
+C:\c++_project\solve\Switch_case_solvs\PR44\PR44\PR44.cpp(39): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  PR44.vcxproj -> C:\c++_project\solve\Switch_case_solvs\PR44\x64\Debug\PR44.exe

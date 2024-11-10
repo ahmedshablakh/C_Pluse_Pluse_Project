@@ -1,0 +1,7 @@
+﻿  PR34.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR34\PR34\PR34.cpp(15,14): warning C4305: 'return': truncation from 'double' to 'float'
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR34\PR34\PR34.cpp(17,14): warning C4305: 'return': truncation from 'double' to 'float'
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR34\PR34\PR34.cpp(19,14): warning C4305: 'return': truncation from 'double' to 'float'
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR34\PR34\PR34.cpp(21,14): warning C4305: 'return': truncation from 'double' to 'float'
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR34\PR34\PR34.cpp(31,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  PR34.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_1\PR34\x64\Debug\PR34.exe

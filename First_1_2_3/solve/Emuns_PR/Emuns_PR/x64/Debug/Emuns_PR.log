@@ -1,0 +1,4 @@
+﻿  Emuns_PR.cpp
+C:\c++_project\solve\Emuns_PR\Emuns_PR\Emuns_PR.cpp(30,9): warning C4101: 'Gender_Status': yerel değişken başvurusu kaldırıldı
+C:\c++_project\solve\Emuns_PR\Emuns_PR\Emuns_PR.cpp(31,17): warning C4101: 'Married_Status': yerel değişken başvurusu kaldırıldı
+  Emuns_PR.vcxproj -> C:\c++_project\solve\Emuns_PR\x64\Debug\Emuns_PR.exe

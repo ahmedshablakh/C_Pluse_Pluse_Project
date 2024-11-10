@@ -1,0 +1,4 @@
+﻿  CountOddNumbersInArray.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_2\CountOddNumbersInArray\CountOddNumbersInArray\CountOddNumbersInArray.cpp(54,45): warning C4101: 'arr2length': unreferenced local variable
+C:\c++_project\Algorithms_Problem-Solving Level_2\CountOddNumbersInArray\CountOddNumbersInArray\CountOddNumbersInArray.cpp(54,32): warning C4101: 'Array2': unreferenced local variable
+  CountOddNumbersInArray.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\CountOddNumbersInArray\x64\Debug\CountOddNumbersInArray.exe

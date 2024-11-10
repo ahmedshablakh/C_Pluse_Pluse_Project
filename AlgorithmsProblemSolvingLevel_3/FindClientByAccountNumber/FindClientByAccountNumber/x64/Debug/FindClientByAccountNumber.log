@@ -1,0 +1,3 @@
+﻿  FindClientByAccountNumber.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\FindClientByAccountNumber\FindClientByAccountNumber\FindClientByAccountNumber.cpp(21,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  FindClientByAccountNumber.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\FindClientByAccountNumber\x64\Debug\FindClientByAccountNumber.exe

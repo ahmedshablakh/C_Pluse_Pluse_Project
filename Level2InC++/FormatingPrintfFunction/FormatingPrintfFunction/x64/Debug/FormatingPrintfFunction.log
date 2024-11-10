@@ -1,0 +1,3 @@
+﻿  FormatingPrintfFunction.cpp
+C:\c++_project\Level2InC++\FormatingPrintfFunction\FormatingPrintfFunction\FormatingPrintfFunction.cpp(24,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  FormatingPrintfFunction.vcxproj -> C:\c++_project\Level2InC++\FormatingPrintfFunction\x64\Debug\FormatingPrintfFunction.exe

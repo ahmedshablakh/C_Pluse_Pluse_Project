@@ -1,0 +1,4 @@
+﻿  Rrim.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\Rrim\Rrim\Rrim.cpp(28,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\Rrim\Rrim\Rrim.cpp(23): warning C4715: 'TrimLeft': not all control paths return a value
+  Rrim.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\Rrim\x64\Debug\Rrim.exe

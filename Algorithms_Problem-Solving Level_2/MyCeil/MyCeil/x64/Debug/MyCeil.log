@@ -1,0 +1,3 @@
+﻿  MyCeil.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_2\MyCeil\MyCeil\MyCeil.cpp(20,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  MyCeil.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\MyCeil\x64\Debug\MyCeil.exe

@@ -1,0 +1,3 @@
+﻿  PR11.cpp
+C:\c++_project\First_1_2_3\solve\PR11\PR11\PR11.cpp(16,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PR11.vcxproj -> C:\c++_project\First_1_2_3\solve\PR11\x64\Debug\PR11.exe

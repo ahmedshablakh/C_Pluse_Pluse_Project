@@ -1,0 +1,3 @@
+﻿  CountLetter.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\CountLetter\CountLetter\CountLetter.cpp(37,73): warning C4244: 'argument': conversion from 'short' to 'char', possible loss of data
+  CountLetter.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\CountLetter\x64\Debug\CountLetter.exe

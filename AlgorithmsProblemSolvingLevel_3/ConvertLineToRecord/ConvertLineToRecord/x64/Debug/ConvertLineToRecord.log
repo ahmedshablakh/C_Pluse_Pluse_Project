@@ -1,0 +1,4 @@
+﻿  ConvertLineToRecord.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\ConvertLineToRecord\ConvertLineToRecord\ConvertLineToRecord.cpp(20,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\ConvertLineToRecord\ConvertLineToRecord\ConvertLineToRecord.cpp(45,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConvertLineToRecord.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\ConvertLineToRecord\x64\Debug\ConvertLineToRecord.exe

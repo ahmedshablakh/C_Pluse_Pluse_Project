@@ -1,0 +1,3 @@
+﻿  Nested_Functions_with_Enums-Month.cpp
+C:\c++_project\Nested_Functions_with_Enums-Month\Nested_Functions_with_Enums-Month\Nested_Functions_with_Enums-Month.cpp(89): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Nested_Functions_with_Enums-Month.vcxproj -> C:\c++_project\Nested_Functions_with_Enums-Month\x64\Debug\Nested_Functions_with_Enums-Month.exe

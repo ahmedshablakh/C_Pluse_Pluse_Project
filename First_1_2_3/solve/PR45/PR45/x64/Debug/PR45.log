@@ -1,0 +1,3 @@
+﻿  PR45.cpp
+C:\c++_project\solve\PR45\PR45\PR45.cpp(66): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  PR45.vcxproj -> C:\c++_project\solve\PR45\x64\Debug\PR45.exe

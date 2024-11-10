@@ -1,0 +1,3 @@
+﻿  CopyArrayOnlyPrimNumber.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_2\CopyArrayOnlyPrimNumber\CopyArrayOnlyPrimNumber\CopyArrayOnlyPrimNumber.cpp(12,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CopyArrayOnlyPrimNumber.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\CopyArrayOnlyPrimNumber\x64\Debug\CopyArrayOnlyPrimNumber.exe

@@ -1,0 +1,4 @@
+﻿  PR40.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR40\PR40\PR40.cpp(16,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\c++_project\Algorithms_Problem-Solving Level_1\PR40\PR40\PR40.cpp(17,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PR40.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_1\PR40\x64\Debug\PR40.exe

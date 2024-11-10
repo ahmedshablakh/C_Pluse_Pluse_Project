@@ -1,0 +1,3 @@
+﻿  PR2.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_2\PR2\PR2\PR2.cpp(17,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PR2.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\PR2\x64\Debug\PR2.exe

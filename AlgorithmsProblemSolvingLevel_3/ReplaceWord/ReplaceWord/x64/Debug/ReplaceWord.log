@@ -1,0 +1,5 @@
+﻿  ReplaceWord.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\ReplaceWord\ReplaceWord\ReplaceWord.cpp(17,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\ReplaceWord\ReplaceWord\ReplaceWord.cpp(20,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\ReplaceWord\ReplaceWord\ReplaceWord.cpp(38,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ReplaceWord.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\ReplaceWord\x64\Debug\ReplaceWord.exe

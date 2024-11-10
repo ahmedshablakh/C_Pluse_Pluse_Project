@@ -1,0 +1,6 @@
+﻿  PR34.cpp
+C:\c++_project\solve\PR34\PR34\PR34.cpp(13,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\c++_project\solve\PR34\PR34\PR34.cpp(17,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\c++_project\solve\PR34\PR34\PR34.cpp(21,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\c++_project\solve\PR34\PR34\PR34.cpp(25,14): warning C4305: '=': truncation from 'double' to 'float'
+  PR34.vcxproj -> C:\c++_project\solve\PR34\x64\Debug\PR34.exe

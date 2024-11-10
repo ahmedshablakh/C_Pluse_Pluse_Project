@@ -1,0 +1,3 @@
+﻿  CopyPrimeNumbersToANewArray.cpp
+C:\c++_project\Algorithms_Problem-Solving Level_2\CopyPrimeNumbersToANewArray\CopyPrimeNumbersToANewArray\CopyPrimeNumbersToANewArray.cpp(8,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CopyPrimeNumbersToANewArray.vcxproj -> C:\c++_project\Algorithms_Problem-Solving Level_2\CopyPrimeNumbersToANewArray\x64\Debug\CopyPrimeNumbersToANewArray.exe

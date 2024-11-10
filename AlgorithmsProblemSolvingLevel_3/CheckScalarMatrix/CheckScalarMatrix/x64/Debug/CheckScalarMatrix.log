@@ -1,0 +1,3 @@
+﻿  CheckScalarMatrix.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\CheckScalarMatrix\CheckScalarMatrix\CheckScalarMatrix.cpp(51): warning C4715: 'IsScalarMatrix': not all control paths return a value
+  CheckScalarMatrix.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\CheckScalarMatrix\x64\Debug\CheckScalarMatrix.exe

@@ -1,0 +1,3 @@
+﻿  CheckDiagonalMatrix.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\CheckDiagonalMatrix\CheckDiagonalMatrix\CheckDiagonalMatrix.cpp(49): warning C4715: 'CheckDaigonalMareix': not all control paths return a value
+  CheckDiagonalMatrix.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\CheckDiagonalMatrix\x64\Debug\CheckDiagonalMatrix.exe

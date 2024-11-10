@@ -1,0 +1,3 @@
+﻿  ReverseWords.cpp
+C:\c++_project\AlgorithmsProblemSolvingLevel_3\ReverseWords\ReverseWords\ReverseWords.cpp(11,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ReverseWords.vcxproj -> C:\c++_project\AlgorithmsProblemSolvingLevel_3\ReverseWords\x64\Debug\ReverseWords.exe
